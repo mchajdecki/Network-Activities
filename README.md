@@ -7,7 +7,7 @@
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#vm">Creating Resources In Microsoft Azure - Virtual Machines - Virtual Networks</a></li>
+<li><a href="#vm">Creating Resources In Microsoft Azure</a></li>
 <li><a href="#wireshark">Installing A Protocol Analyzer - Wireshark</a></li>
 <li><a href="#ping">Ping Virtual Machines and devices</a></li>
 <li><a href="#firewall">Configuring A Firewall</a></li>
