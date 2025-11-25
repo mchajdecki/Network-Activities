@@ -116,7 +116,7 @@
 
 
 <h1 id="resource">Creating a Virtual Machine (Windows)</h1>
-<h2>>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
+<h2>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 
 <p>
 <img src="" alt=""/>
