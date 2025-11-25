@@ -115,6 +115,20 @@
 <hr>
 
 
+<h1 id="resource">Creating a Virtual Machine (Windows)</h1>
+<h2>>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
+
+<p>
+<img src="" alt=""/>
+</p>
+<p>
+  <ol type="1">
+    <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box.</li>
+    <li>Click on the Resource Group Option to Continue.</li>
+  </ol>
+</p>
+<br />
+<hr>
 
 
 
