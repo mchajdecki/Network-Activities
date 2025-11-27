@@ -121,10 +121,11 @@
 
 
 <h1 id="resource"><strong>Creating a Virtual Machine (Windows)</strong></h1>
-<h2>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
+<h2>An Azure Virtual Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
+<h3>In the following steps we are creating a Windows Virtual Machine in Microsoft Azure.</h3>
 
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/527860b5f3089691745f57886c28eddaa13cc3ea/images/Slide_5.jpg" alt="Windows_VM - Slide_5"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/14561c0ce0def05ac2cc08bce26951e89e0d3ada/images/Slide_5.jpg" alt="Windows_VM - Slide_5"/>
 </p>
 <p>
   <ol type="1">
@@ -136,6 +137,26 @@
 <hr>
 
 
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2411588286078719543c06b747dbfe32c85ca306/images/Slide_6.jpg" alt="Windows_VM - Slide_6"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Continue by clicking the +Create option.</li>
+  </ol>
+</p>
+<br/>
+
+
+<p>
+<img src="" alt="Windows_VM - Slide_7"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Continue by clicking the +Create option.</li>
+  </ol>
+</p>
+<br/>
 
 
 
