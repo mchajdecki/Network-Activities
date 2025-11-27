@@ -69,7 +69,7 @@
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
-<img src="" alt="Creating a Resource Group - Slide_1"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2653b6e8d9499b49ce329ede643d139d47d5231c/images/Slide_1.jpg" alt="Creating a Resource Group - Slide_1"/>
 </p>
 <p>
   <ol type="1">
