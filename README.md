@@ -123,7 +123,7 @@
 <h2>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 
 <p>
-<img src="" alt=""/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/527860b5f3089691745f57886c28eddaa13cc3ea/images/Slide_5.jpg" alt="Windows_VM - Slide_5"/>
 </p>
 <p>
   <ol type="1">
