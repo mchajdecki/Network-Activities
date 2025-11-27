@@ -120,7 +120,7 @@
 <br>
 
 
-<h1 id="resource"><em>Creating a Virtual Machine (Windows)</em></h1>
+<h1 id="resource"><u>Creating a Virtual Machine (Windows)</u></h1>
 <h2>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 
 <p>
