@@ -73,9 +73,9 @@
 </p>
 <p>
   <ol type="1">
-     <li>Navigate to Microsoft Azure Main Portal</li>
+     <li>Navigate to Microsoft Azure main portal.</li>
     <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box.</li>
-    <li>Click on the Resource Group Option to Continue.</li>
+    <li>Click on the Resource Group option to continue.</li>
   </ol>
 </p>
 <br />
