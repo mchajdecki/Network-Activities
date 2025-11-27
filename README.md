@@ -116,7 +116,8 @@
   </ol>
 </p>
 <br/>
-<hr>
+<br>
+<br>
 
 
 <h1 id="resource">Creating a Virtual Machine (Windows)</h1>
