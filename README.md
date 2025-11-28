@@ -127,7 +127,7 @@
 
 
 
-<h1 id="resource"><i>Creating a Virtual Machine (Windows)</i></h1>
+<h1 id="resource"><i>Creating a Virtual Machine (Windows) + Virtual network</i></h1>
 <h2>An Azure Virtual Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 <h3>In the following steps we are creating a Windows Virtual Machine in Microsoft Azure.</h3>
 
