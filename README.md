@@ -65,7 +65,8 @@
 
 <h2> Lets begin by creating the necessary resources in Microsoft Azure</h2>
 
-<h1 id="resource" > <font color="green">Creating a Resource Group</font></h1>
+<style> h1 { color: blue; }</style>
+<h1 id="resource">Creating a Resource Group</h1>
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
