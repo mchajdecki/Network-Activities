@@ -58,12 +58,11 @@
 <h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
   
-<br/>
+<br>
+<br>
+<br>
+<br>
 
-  <br/>
-<br/>
-
-<h2> Lets begin by creating the necessary resources in Microsoft Azure</h2>
 
 
 <h1 id="resource"><i>Creating a Resource Group</i></h1>
@@ -128,7 +127,7 @@
 
 
 
-<h1 id="resource"><strong>Creating a Virtual Machine (Windows)</strong></h1>
+<h1 id="resource"><i>Creating a Virtual Machine (Windows)</i></h1>
 <h2>An Azure Virtual Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 <h3>In the following steps we are creating a Windows Virtual Machine in Microsoft Azure.</h3>
 
