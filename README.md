@@ -153,6 +153,7 @@
 <img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2411588286078719543c06b747dbfe32c85ca306/images/Slide_6.jpg" alt="Windows_VM - Slide_6"/>
 </p>
 <br>
+<hr>
 
 
 
