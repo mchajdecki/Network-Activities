@@ -92,7 +92,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/a93d0c1b45baa55b25610ef0b34ad98b7aa75fb5/images/Slide_2.jpg" alt="Creating a Resource Group - Slide_2"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-2.jpg" alt="Creating a Resource Group - Slide_2"/>
 </p>
 <br>
 <hr>
@@ -104,7 +104,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/3b9de4e9d29d3bfef370557ac746475482409505/images/Slide_3.jpg" alt="Creating a Resource Group - Slide_3"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-3.jpg" alt="Creating a Resource Group - Slide_3"/>
 </p>
 <br>
 <hr>
@@ -118,7 +118,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/31461d7d54b43a9d36bba5a6b8259e1b59f89267/images/Slide_4.jpg" alt="Creating a Resource Group - Slide_4"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-4.jpg" alt="Creating a Resource Group - Slide_4"/>
 </p>
 <br/>
 <br>
@@ -138,7 +138,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/14561c0ce0def05ac2cc08bce26951e89e0d3ada/images/Slide_5.jpg" alt="Windows_VM - Slide_5"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-5.jpg" alt="Windows_VM - Slide_5"/>
 </p>
 <br>
 <hr>
