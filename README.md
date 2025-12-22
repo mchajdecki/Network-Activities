@@ -207,7 +207,7 @@
 <p>
   <ol type="1">
      <li>Delete the current subnet so it shows the message below.</li>
-     <li>You nust add at least one address space to the virtual network.</li>
+     <li>You must add at least one address space to the virtual network.</li>
      <li>You must add at least one subet to the virtual network.</li>
   </ol>
 </p>
