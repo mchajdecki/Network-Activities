@@ -304,6 +304,19 @@
 
 
 
+<p>
+  <ol type="1">
+    <li>Continue by clicking the +Create option.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/067fe815d30ac1a9d9fdd6f1fd37f6f8f0e4c9a0/images/Slide_17.jpg" alt="Windows_VM - Slide_17"/>
+</p>
+<br>
+<hr>
+
+
+
 
 
 
