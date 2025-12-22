@@ -253,7 +253,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/0cb15007db166c060a46ae790cec250a4a1d53bb/images/Slide_13.jpg" alt="Windows_VM - Slide_13"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/63b1d67f1ba5fbb42bd6980dde8167e728d868ee/images/Slide_13.jpg" alt="Windows_VM - Slide_13"/>
 </p>
 <br>
 <hr>
