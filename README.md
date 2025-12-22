@@ -255,7 +255,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/712022ea900227da5024d599a1d9163607f9f328/images/Slide_15.jpg" alt="Windows_VM - Slide_15"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/2f40f818272198754625b7a835eda9b5b36ee4b8/images/Slide_13.jpg" alt="Windows_VM - Slide_13"/>
 </p>
 <br>
 <hr>
