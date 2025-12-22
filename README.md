@@ -231,30 +231,7 @@
 <hr>
 
 
-<p>
-  <ol type="1">
-     <li>Click save to continue.</li>
-  </ol>
-</p>
-<p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/1d566078fa6a1fe7f74380cce8b120c7817b7e61/images/Slide_12.jpg" alt="Windows_VM - Slide_12"/>
-</p>
-<br>
-<hr>
 
-
-
-<p>
-  <ol type="1">
-     <li>Observe the newly created Virtual Network.</li>
-     <li>Click Review + create to finish creating the Windows Virtual Machine with the new Virtual Network.</li>
-  </ol>
-</p>
-<p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/63b1d67f1ba5fbb42bd6980dde8167e728d868ee/images/Slide_13.jpg" alt="Windows_VM - Slide_13"/>
-</p>
-<br>
-<hr>
 
 
 <p>
@@ -264,7 +241,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/319f4de1aeddf07179cdec7e87854549243f5cd9/images/Slide_14.jpg" alt="Windows_VM - Slide_14"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/372aab156a3ca8528efcc8a34ec282bdbf6d8d5c/images/Slide_12.jpg" alt="Windows_VM - Slide_12"/>
 </p>
 <br>
 <hr>
