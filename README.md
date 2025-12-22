@@ -193,11 +193,11 @@
 
 <p>
   <ol type="1">
-     <li>In the Virtual networ section click the Edit virtual network option. Here is where we will create our own Virtual network.</li>
+     <li>In the Virtual networ section click the Create new option. Here is where we will create our own Virtual network.</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/57af34de1972fc0d4049a7830a827b26bdd4ffba/images/Slide-9.jpg" alt="Windows_VM - Slide_9"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/4300da12ec6e854a5109d452a31d152530116740/images/Slide-9.jpg" alt="Windows_VM - Slide_9"/>
 </p>
 <br>
 <hr>
