@@ -286,6 +286,23 @@
 <hr>
 
 
+<h1 id="resource"><i>Creating a Virtual Machine (Linux)</i></h1>
+<h2>An Azure Virtual Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
+<h3>In the following steps we are creating a Linux Virtual Machine in Microsoft Azure.</h3>
+
+<p>
+  <ol type="1">
+    <li>On the home page of Microsoft Azure locate the Virtual Machines Option.</li>
+    <li>Click on the Virtual Machines to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/2b8179c92676e4b091bfa61e5de640de0c28b1a3/images/Slide_16.jpg" alt="Windows_VM - Slide_16"/>
+</p>
+<br>
+<hr>
+
+
 
 
 
