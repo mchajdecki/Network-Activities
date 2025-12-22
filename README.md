@@ -272,7 +272,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/2b8179c92676e4b091bfa61e5de640de0c28b1a3/images/Slide_16.jpg" alt="Windows_VM - Slide_16"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/1ae73aa1cb70020babbdc895aca6da42a9ac6eb6/images/Slide_14.jpg" alt="Windows_VM - Slide_14"/>
 </p>
 <br>
 <hr>
@@ -285,7 +285,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/067fe815d30ac1a9d9fdd6f1fd37f6f8f0e4c9a0/images/Slide_17.jpg" alt="Windows_VM - Slide_17"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a56f4e1017b7f9e4d30572090fe6473a1c3aacd6/images/Slide_15.jpg" alt="Windows_VM - Slide_15"/>
 </p>
 <br>
 <hr>
