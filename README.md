@@ -272,6 +272,19 @@
 
 
 
+<p>
+  <ol type="1">
+     <li>The newly created Windows Virtual Machine will display on the main page of Microsoft Azure.</li>
+     <li>This concludes the creation of the Windows Virtual Machine and the new Virtual Network.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/712022ea900227da5024d599a1d9163607f9f328/images/Slide_15.jpg" alt="Windows_VM - Slide_15"/>
+</p>
+<br>
+<hr>
+
+
 
 
 
