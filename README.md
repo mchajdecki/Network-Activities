@@ -232,6 +232,18 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+     <li>Click save to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/1d566078fa6a1fe7f74380cce8b120c7817b7e61/images/Slide_12.jpg" alt="Windows_VM - Slide_12"/>
+</p>
+<br>
+<hr>
+
+
 
 
 
