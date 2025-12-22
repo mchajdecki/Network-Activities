@@ -220,13 +220,12 @@
 
 <p>
   <ol type="1">
-     <li>Click the Add a subnet option.</li>
-     <li>A side box will appear and require you to put in Name and Starting address which will be 10.0.0.0 for this tutorial.</li>
-     <li>Click Add to continue.</li>
+     <li>The newly created Virtual Network (Networ Activities) will shop up here </li>
+     <li>Click Review + create to finish creating the Windows Virtual Machine with the new Virtual Network</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/092174694d13d5f4b4fec97a31661b75a1d6c775/images/Slide_11.jpg" alt="Windows_VM - Slide_11"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/57ef1ada3c13736b7cbe18051f8bec5dbecb1466/images/Slide_11.jpg" alt="Windows_VM - Slide_11"/>
 </p>
 <br>
 <hr>
