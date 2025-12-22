@@ -258,6 +258,20 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+     <li>Wait for the creation of the Windows Virtual machine to finish.</li>
+     <li>Deployment succeeded message will display once the creation is successfully completed.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/319f4de1aeddf07179cdec7e87854549243f5cd9/images/Slide_14.jpg" alt="Windows_VM - Slide_14"/>
+</p>
+<br>
+<hr>
+
+
+
 
 
 
