@@ -245,6 +245,21 @@
 
 
 
+<p>
+  <ol type="1">
+     <li>Observe the newly created Virtual Network.</li>
+     <li>Click Review + create to finish creating the Windows Virtual Machine with the new Virtual Network.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/0cb15007db166c060a46ae790cec250a4a1d53bb/images/Slide_13.jpg" alt="Windows_VM - Slide_13"/>
+</p>
+<br>
+<hr>
+
+
+
+
 
 
 
