@@ -206,14 +206,13 @@
 
 <p>
   <ol type="1">
-     <li>Give the new Virtual Network a name - e.g.(Network Activities).</li>
-     <li>Delete the current subnet so it shows the message below.</li>
-     <li>You must add at least one address space to the virtual network.</li>
-     <li>You must add at least one subet to the virtual network.</li>
+     <li>After clicking Create new option, a side box will appear.</li>
+     <li>Name the new Virtual Network e.g. NetworkActivities.</li>
+     <li>Click Ok to continue</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/55480f575d61f8b1ec1aa802b5e6a81cc322d21d/images/Slide_10.jpg" alt="Windows_VM - Slide_10"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/ddfa16a68c5bb31778363c0a19fa8067d9d0c722/images/Slide_10.jpg" alt="Windows_VM - Slide_10"/>
 </p>
 <br>
 <hr>
