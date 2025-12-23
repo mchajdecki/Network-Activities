@@ -348,6 +348,20 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+     <li>Wait for the creation of the Linux Virtual machine to finish.</li>
+     <li>Deployment succeeded message will display once the creation is successfully completed.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/5cdda28cc5803ec1b027920c9bf89b6bc0a25dc8/images/Slide_20.jpg" alt="Windows_VM - Slide_20"/>
+</p>
+<br>
+<hr>
+
+
+
 
 
 
