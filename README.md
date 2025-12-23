@@ -9,7 +9,8 @@
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#vm">Creating Resources In Microsoft Azure</a></li>
+<li><a href="#vm">Creating Resources In Azure</a></li>
+<li><a href="#login">Logging into Virtual Machine</a></li>
 <li><a href="#wireshark">Installing A Protocol Analyzer - Wireshark</a></li>
 <li><a href="#ping">Ping Virtual Machines and devices</a></li>
 <li><a href="#firewall">Configuring A Firewall</a></li>
@@ -272,7 +273,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/1ae73aa1cb70020babbdc895aca6da42a9ac6eb6/images/Slide_14.jpg" alt="Windows_VM - Slide_14"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/1ae73aa1cb70020babbdc895aca6da42a9ac6eb6/images/Slide_14.jpg" alt="Linux_VM - Slide_14"/>
 </p>
 <br>
 <hr>
@@ -285,7 +286,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/a56f4e1017b7f9e4d30572090fe6473a1c3aacd6/images/Slide_15.jpg" alt="Windows_VM - Slide_15"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a56f4e1017b7f9e4d30572090fe6473a1c3aacd6/images/Slide_15.jpg" alt="Linux_VM - Slide_15"/>
 </p>
 <br>
 <hr>
@@ -304,7 +305,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/752e5dc976668c46ed9b1a8d5af612b0e38e1de5/images/Slide_16.jpg" alt="Windows_VM - Slide_16"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/752e5dc976668c46ed9b1a8d5af612b0e38e1de5/images/Slide_16.jpg" alt="Linux_VM - Slide_16"/>
 </p>
 <br>
 <hr>
@@ -316,7 +317,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/3caa9df2587a214d2888072e0005af5a0ffcfa12/images/Slide_17.jpg" alt="Windows_VM - Slide_17"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/3caa9df2587a214d2888072e0005af5a0ffcfa12/images/Slide_17.jpg" alt="Linux_VM - Slide_17"/>
 </p>
 <br>
 <hr>
@@ -330,7 +331,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/cfefedadb939b90b68dea6de0b221a12c6c44916/images/Slide_18.jpg" alt="Windows_VM - Slide_18"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/cfefedadb939b90b68dea6de0b221a12c6c44916/images/Slide_18.jpg" alt="Linuxs_VM - Slide_18"/>
 </p>
 <br>
 <hr>
@@ -342,7 +343,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/65269d17cf6c0672315cedc8153c8bca0f95252a/images/Slide_19.jpg" alt="Windows_VM - Slide_19"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/65269d17cf6c0672315cedc8153c8bca0f95252a/images/Slide_19.jpg" alt="Linux_VM - Slide_19"/>
 </p>
 <br>
 <hr>
@@ -356,13 +357,25 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/5cdda28cc5803ec1b027920c9bf89b6bc0a25dc8/images/Slide_20.jpg" alt="Windows_VM - Slide_20"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/5cdda28cc5803ec1b027920c9bf89b6bc0a25dc8/images/Slide_20.jpg" alt="Linux_VM - Slide_20"/>
 </p>
 <br>
 <hr>
 
 
 
+<h1 id="login"><i>Loggin Into A Virtual Machine</i></h1>
+<p>
+  <ol type="1">
+    <li>Navigate to Microsoft Azure main portal.</li>
+    <li>Click on the Windows Virtual Machine to gather information for log-in.</li>
+  </ol>
+</p>
+<p>
+<img src="" alt=""/>
+</p>
+<br>
+<hr>
 
 
 
