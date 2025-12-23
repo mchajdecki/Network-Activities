@@ -310,6 +310,16 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+    <li>Click Next :Networking > to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/3caa9df2587a214d2888072e0005af5a0ffcfa12/images/Slide_17.jpg" alt="Windows_VM - Slide_17"/>
+</p>
+<br>
+<hr>
 
 
 
