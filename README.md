@@ -352,6 +352,7 @@
   <ol type="1">
      <li>Wait for the creation of the Linux Virtual machine to finish.</li>
      <li>Deployment succeeded message will display once the creation is successfully completed.</li>
+     <li>The creation of the Linux Virtual Machine is now complete.</li>
   </ol>
 </p>
 <p>
