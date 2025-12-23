@@ -336,6 +336,18 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+    <li>Click Create again to finish creating the Linux Virtual Machine.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/65269d17cf6c0672315cedc8153c8bca0f95252a/images/Slide_19.jpg" alt="Windows_VM - Slide_19"/>
+</p>
+<br>
+<hr>
+
+
 
 
 
