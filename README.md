@@ -323,6 +323,20 @@
 
 
 
+<p>
+  <ol type="1">
+    <li>Make sure to select the previously created new Virtual Network e.g. NetworkActivities.</li>
+    <li>Click Review + create to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/cfefedadb939b90b68dea6de0b221a12c6c44916/images/Slide_18.jpg" alt="Windows_VM - Slide_18"/>
+</p>
+<br>
+<hr>
+
+
+
 
 
 
