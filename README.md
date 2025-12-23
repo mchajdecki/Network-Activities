@@ -292,6 +292,22 @@
 
 
 
+<p>
+  <ol type="1">
+      <li>Select the resource group created previously.</li>
+      <li>Name the Virtual Machine LinuxVM for easy identification.</li>
+      <li>Select (US) East US2 for region.</li>
+      <li>Select the Ubuntu Server 22.04 LTS - x64 Gen2 for Image.</li>
+      <li>Select Standard_D2s_v3 - 2vcpus, 8 GIB memory for Size.</li>
+      <li>Create your username and password for this VM that you will be using at Log in.</li>
+     <li>Click Next: Disks</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/752e5dc976668c46ed9b1a8d5af612b0e38e1de5/images/Slide_16.jpg" alt="Windows_VM - Slide_16"/>
+</p>
+<br>
+<hr>
 
 
 
