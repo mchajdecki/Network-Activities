@@ -449,3 +449,16 @@
 <br>
 <hr>
 
+
+<p>
+  <ol type="1">
+    <li>After Clicking + and Add PC - The Add Pc box will display.</li>
+    <li>In the PC name box - copy and paste the Public IP address that is in the Windows VM - Overview - Networking Section.</li>
+   <li>Click Add to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/5525ba1f22d4075e59b1348dae0c842e12d7f4cb/images/Slide_27.jpg" alt="LogIn - Slide_27"/>
+</p>
+<br>
+<hr>
