@@ -87,7 +87,7 @@
 <p>
   <ol type="1">
     <li>Select the Subscription you are currently using.</li>
-    <li>Name the Resource Group.</li>
+    <li>Name the Resource Group.(e.g. NetworkActivities)</li>
     <li>Select the appropriate time zone you are located in.</li>
     <li>Click Review + Create on the bottom of the page to continue.</li>
   </ol>
