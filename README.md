@@ -463,3 +463,17 @@
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+    <li>Once the Add button is clicked a window will go into the Saved PCs section.</li>
+     <li>On that window the Added Public IP address in the last slide will display</li>
+    <li>Double click the window to continue to the next step.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/eb9a82659cae8b5454310faf81fdc2a09d5d4b96/images/Slide_28.jpg" alt="LogIn - Slide_28"/>
+</p>
+<br>
+<hr>
