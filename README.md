@@ -452,8 +452,8 @@
 
 <p>
   <ol type="1">
-    <li>After Clicking + and Add PC - The Add Pc box will display.</li>
-    <li>In the PC name box - copy and paste the Public IP address that is in the Windows VM - Overview - Networking Section.<br>
+    <li>After Clicking + and Add PC - The Add PC box will display.</li>
+    <li>In the PC name: - copy and paste the Public IP address that is in the Windows VM - Overview - Networking Section.<br>
        *Take a look back on the second slide in this section for reference.</li>
    <li>Click Add to continue.</li>
   </ol>
@@ -468,7 +468,7 @@
 <p>
   <ol type="1">
     <li>Once the Add button is clicked a window will go into the Saved PCs section.</li>
-     <li>On that window the Added Public IP address in the last slide will display</li>
+     <li>On that window the Added Public IP address will display.</li>
     <li>Double click the window to continue to the next step.</li>
   </ol>
 </p>
