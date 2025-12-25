@@ -423,20 +423,6 @@
 
 <p>
   <ol type="1">
-    <li>On the WindowsVM main page "Overview" locate the Networking section.</li>
-    <li>In the Networking section find the Public IP addresss and copy and paste it to your notes.</li>
-    <li>This along with the username and password created is needed for logging into the Virtual Machine.</li>
-  </ol>
-</p>
-<p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/c29b4bbd6c971c8e2ba954b50d44bd3c5c020f68/images/Slide_24.jpg" alt="Logging_In - Slide_24"/>
-</p>
-<br>
-<hr>
-
-
-<p>
-  <ol type="1">
     <li>If you are using Mac - Navigate to the App Store.</li>
     <li>In the App Store search for Windows App and download it.</li>
     <li>Once the Windows App is open the main screen will look like the picture below.</li>
