@@ -363,6 +363,32 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+     <li>On the home page of the Azure portal you should see all the resources that have been created. </li>
+     <li>The Resource Group - Windows Virtual Machine - Linux Virtual Machine - New Virtual Network.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/8ebd71ddac08290d2c664d96f63c9787f4c74da1/images/Slide_21.jpg" alt="Linux_VM - Slide_21"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li>Keep a Notepad or Notes with Log-In information somewhere close by and handy. </li>
+     <li>This information will be handy in the next steps which will be Logging In to the Virtual Machine.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/4bbb0cd988597d74c4d32eff2b9fda37202b2320/images/Slide_22.jpg" alt="Linux_VM - Slide_22"/>
+</p>
+<br>
+<hr>
+
+
+
 
 <h1 id="login"><i>Loggin Into A Virtual Machine</i></h1>
 <p>
