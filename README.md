@@ -411,7 +411,7 @@
   <ol type="1">
     <li>On the WindowsVM main page "Overview" locate the Networking section.</li>
     <li>In the Networking section find the Public IP addresss and copy and paste it to your notes.</li>
-    <li>This along with the username and password created is needed for the WindowsVM log in.</li>
+    <li>This along with the username and password created is needed for logging into the Virtual Machine.</li>
   </ol>
 </p>
 <p>
