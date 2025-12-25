@@ -386,6 +386,7 @@
 <img src="https://github.com/mchajdecki/Network-Activities/blob/4bbb0cd988597d74c4d32eff2b9fda37202b2320/images/Slide_22.jpg" alt="Linux_VM - Slide_22"/>
 </p>
 <br>
+<br>
 <hr>
 
 
@@ -399,7 +400,22 @@
   </ol>
 </p>
 <p>
-<img src="" alt=""/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/ce31d55d33cc50726de56895ef9ec0c0ffb43b42/images/Slide_23.jpg" alt="Logging_In - Slide_23"/>
+</p>
+<br>
+<hr>
+
+
+
+<p>
+  <ol type="1">
+    <li>On the WindowsVM main page "Overview" locate the Networking section.</li>
+    <li>In the Networking section find the Public IP addresss and copy and paste it to your notes.</li>
+    <li>This along with the username and password created is needed for the WindowsVM log in.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/c29b4bbd6c971c8e2ba954b50d44bd3c5c020f68/images/Slide_24.jpg" alt="Logging_In - Slide_24"/>
 </p>
 <br>
 <hr>
