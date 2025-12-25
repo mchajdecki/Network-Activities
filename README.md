@@ -162,9 +162,9 @@
 <p>
   <ol type="1">
       <li>Select the resource group created previously.</li>
-      <li>Name the Virtual Machine Windows VM for easy identification.</li>
+      <li>Name the Virtual Machine WindowsVM for easy identification.</li>
       <li>Select (US) East US2 for region.</li>
-      <li>Select the Windows 10 Enterprise LTSC 2021 -x64 Gen 2 for Image. (Windows 10 pro or Windows 11 are also ok)</li>
+      <li>Select Windows 10 Enterprise LTSC 2021 -x64 Gen 2 for Image.(Windows 10 Pro or Windows 11 are also ok)</li>
       <li>Select Standard_D2s_v3 - 2vcpus, 8 GIB memory for Size.</li>
       <li>Create your username and password for this VM that you will be using at Log in.</li>
       <li>Make sure to select the checkbox below before continuing to the next step.</li>
