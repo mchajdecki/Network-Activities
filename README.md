@@ -379,6 +379,7 @@
   <ol type="1">
      <li>Keep a Notepad or Notes with Log-In information somewhere close by and handy. </li>
      <li>This information will be needed for the next steps which will be Logging In to the Virtual Machine.</li>
+     <li>This concludes all the steps in creating all the Resources necessary for Network Testing.</li>
   </ol>
 </p>
 <p>
