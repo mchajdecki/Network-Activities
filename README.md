@@ -430,9 +430,22 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/908b1c41abc875639880056f08abac20f9cb4d4f/images/Slide_25.jpg" alt="Logging_In - Slide_25"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/908b1c41abc875639880056f08abac20f9cb4d4f/images/Slide_25.jpg" alt="LogIn - Slide_25"/>
 </p>
 <br>
 <hr>
 
+
+
+
+<p>
+  <ol type="1">
+    <li>Once the Windows App is open click on the + and select the Add PC option from the drop down menu.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/81509d46183a65a9e5eb03dc2c1b84eb824797a0/images/Slide_26.jpg" alt="LogIn - Slide_26"/>
+</p>
+<br>
+<hr>
 
