@@ -558,11 +558,12 @@
 <p>
   <ol type="1">
     <li>Once you are in the Microsoft Edge browser navigate to the <a href="https://www.wireshark.org" target="_blank" >www.wireshark.org</a> website.</li>
-     <li>The Wireshark home page will dispaly.</li>
+     <li>The Wireshark home page will display.</li>
+     <li>On the home page of Wireshark click on the Download Now option.</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/f868f2f39f2f62233acd0299e48e1a4f149e0e41/images/Slide_34.jpg" alt="Login - Slide_34"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/32eb957f82c58ec1709f67789b5255cc60ee2cfa/images/Slide_34.jpg" alt="Login - Slide_34"/>
 </p>
 <br>
 <hr>
