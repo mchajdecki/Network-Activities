@@ -557,12 +557,12 @@
 
 <p>
   <ol type="1">
-    <li>Once you are in the Microsoft Edge browser navigate to the <a href="https://www.wireshark.org" target="_blank" rel="noopener noreferrer">www.wireshark.org</a>website</li>
+    <li>Once you are in the Microsoft Edge browser navigate to the <a href="https://www.wireshark.org" target="_blank" >www.wireshark.org</a> website</li>
      <li>The Wireshark home page will dispaly</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/7ff304dab95cc43bfc4df1672b72ab2fa297ca81/images/Slide_34.jpg" alt="Login - Slide_34"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/f868f2f39f2f62233acd0299e48e1a4f149e0e41/images/Slide_34.jpg" alt="Login - Slide_34"/>
 </p>
 <br>
 <hr>
