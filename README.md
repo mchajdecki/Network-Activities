@@ -121,7 +121,10 @@
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-4.jpg" alt="Creating a Resource Group - Slide_4"/>
 </p>
-<br/>
+<hr>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -258,8 +261,12 @@
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/2f40f818272198754625b7a835eda9b5b36ee4b8/images/Slide_13.jpg" alt="Windows_VM - Slide_13"/>
 </p>
-<br>
 <hr>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <h1 id="resource"><i>Creating a Virtual Machine (Linux)</i></h1>
