@@ -519,3 +519,19 @@
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+     <li>This is the main home screen of Microsoft Windows.</li>
+     <li>You have succesfully logged into the Windows Virtual Machine.</li>
+     <li>The Log in process is complete.</li>
+    
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/d051a3cd55cd7c9164aded36cf37ed021a126653/images/Slide_32.jpg" alt="LogIn - Slide_32">
+</p>
+<br>
+<hr>
+
