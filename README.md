@@ -477,3 +477,17 @@
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+    <li>A box will display to Enter Your Credentials.</li>
+     <li>In this section you will enter the username and password created in the Windows Virtual Machine.</li>
+    <li>Double click the window to continue to the next step.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a7c6263f5f3c6533ab0909dc4fb7a3357cade12e/images/Slide_29.jpg" alt="LogIn - Slide_29"/>
+</p>
+<br>
+<hr>
