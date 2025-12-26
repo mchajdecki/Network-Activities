@@ -563,8 +563,35 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/32eb957f82c58ec1709f67789b5255cc60ee2cfa/images/Slide_34.jpg" alt="Login - Slide_34"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/9871a581c85de9bb6ce60f4b4c8483d08f8505d1/images/Slide_34.jpg" alt="Wireshark - Slide_34"/>
 </p>
 <br>
 <hr>
 
+
+<p>
+  <ol type="1">
+    <li>Select the Windows x64 Installer to download.</li>
+     <li>The download window will show up on the right hand side of the page.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/b13bdc94b6d9be25b982c64a054a5a56460b87ef/images/Slide_35.jpg" alt="Wireshark - Slide_35"/>
+</p>
+<br>
+<hr>
+
+
+
+
+<p>
+  <ol type="1">
+    <li>Locate the downloaded file; This PC  ➡️  Downloads.</li>
+     <li>Double click to begin installation.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/2168a084986980b1b0e70815e32d65dd3570a196/images/Slide_36.jpg" alt="Wireshark - Slide_36"/>
+</p>
+<br>
+<hr>
