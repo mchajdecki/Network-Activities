@@ -262,8 +262,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 <h1 id="resource"><i>Creating a Virtual Machine (Linux)</i></h1>
@@ -389,10 +387,10 @@
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/4bbb0cd988597d74c4d32eff2b9fda37202b2320/images/Slide_22.jpg" alt="Linux_VM - Slide_22"/>
 </p>
-<br>
-<br>
 <hr>
-
+<br>
+<br>
+<br>
 
 
 
@@ -404,7 +402,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/ce31d55d33cc50726de56895ef9ec0c0ffb43b42/images/Slide_23.jpg" alt="Logging_In - Slide_23"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/ce31d55d33cc50726de56895ef9ec0c0ffb43b42/images/Slide_23.jpg" alt="Login - Slide_23"/>
 </p>
 <br>
 <hr>
@@ -419,7 +417,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/c29b4bbd6c971c8e2ba954b50d44bd3c5c020f68/images/Slide_24.jpg" alt="Logging_In - Slide_24"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/c29b4bbd6c971c8e2ba954b50d44bd3c5c020f68/images/Slide_24.jpg" alt="Login - Slide_24"/>
 </p>
 <br>
 <hr>
@@ -434,7 +432,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/908b1c41abc875639880056f08abac20f9cb4d4f/images/Slide_25.jpg" alt="LogIn - Slide_25"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/908b1c41abc875639880056f08abac20f9cb4d4f/images/Slide_25.jpg" alt="Login - Slide_25"/>
 </p>
 <br>
 <hr>
@@ -448,7 +446,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/81509d46183a65a9e5eb03dc2c1b84eb824797a0/images/Slide_26.jpg" alt="LogIn - Slide_26"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/81509d46183a65a9e5eb03dc2c1b84eb824797a0/images/Slide_26.jpg" alt="Login - Slide_26"/>
 </p>
 <br>
 <hr>
@@ -463,7 +461,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/5525ba1f22d4075e59b1348dae0c842e12d7f4cb/images/Slide_27.jpg" alt="LogIn - Slide_27"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/5525ba1f22d4075e59b1348dae0c842e12d7f4cb/images/Slide_27.jpg" alt="Login - Slide_27"/>
 </p>
 <br>
 <hr>
@@ -477,7 +475,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/eb9a82659cae8b5454310faf81fdc2a09d5d4b96/images/Slide_28.jpg" alt="LogIn - Slide_28"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/eb9a82659cae8b5454310faf81fdc2a09d5d4b96/images/Slide_28.jpg" alt="Login - Slide_28"/>
 </p>
 <br>
 <hr>
@@ -491,7 +489,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/a7c6263f5f3c6533ab0909dc4fb7a3357cade12e/images/Slide_29.jpg" alt="LogIn - Slide_29"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a7c6263f5f3c6533ab0909dc4fb7a3357cade12e/images/Slide_29.jpg" alt="Login - Slide_29"/>
 </p>
 <br>
 <hr>
@@ -504,7 +502,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/a55f28abce071d97f3a72bc2333e5d27be3b32b0/images/Slide_30.jpg" alt="LogIn - Slide_30"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a55f28abce071d97f3a72bc2333e5d27be3b32b0/images/Slide_30.jpg" alt="Login - Slide_30"/>
 </p>
 <br>
 <hr>
@@ -536,10 +534,10 @@
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/d051a3cd55cd7c9164aded36cf37ed021a126653/images/Slide_32.jpg" alt="LogIn - Slide_32">
 </p>
-<br>
-<br>
 <hr>
-
+<br>
+<br>
+<br>
 
 
 <h1 id="wireshark"><i>Installing A Protocol Analyzer - Wireshark</i></h1>
