@@ -533,5 +533,22 @@
 <img src="https://github.com/mchajdecki/Network-Activities/blob/d051a3cd55cd7c9164aded36cf37ed021a126653/images/Slide_32.jpg" alt="LogIn - Slide_32">
 </p>
 <br>
+<br>
+<hr>
+
+
+
+<h1 id="wireshark"><i>Installing A Protocol Analyzer - Wireshark</i></h1>
+<h2>Wireshark is a free, open-source network protocol analyzer used to capture and inspect data packets in real-time for troubleshooting and security analysis.</h2>
+
+<p>
+  <ol type="1">
+     <li>On the home page of the logged in Windows Virtual Machine navigate to the Microsoft Edge browser and double click to open it.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/c14a70c9e3e22b546d103d8464f83900ebce91c4/images/Slide_33.jpg" alt="Wireshark- Slide_33"/>
+</p>
+<br>
 <hr>
 
