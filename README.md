@@ -557,8 +557,8 @@
 
 <p>
   <ol type="1">
-    <li>Once you are in the Microsoft Edge browser navigate to the <a href="https://www.wireshark.org" target="_blank" >www.wireshark.org</a> website</li>
-     <li>The Wireshark home page will dispaly</li>
+    <li>Once you are in the Microsoft Edge browser navigate to the <a href="https://www.wireshark.org" target="_blank" >www.wireshark.org</a> website.</li>
+     <li>The Wireshark home page will dispaly.</li>
   </ol>
 </p>
 <p>
