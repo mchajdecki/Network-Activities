@@ -505,3 +505,17 @@
 <br>
 <hr>
 
+
+
+<p>
+  <ol type="1">
+     <li>On the following screen it will state Choose privacy settings for your device.</li>
+     <li>Select all options to no for the purpose of this tutorial.</li>
+    
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/1014309082029b773160fc4af3c4468cfaa11756/images/Slide_31.jpg" alt="LogIn - Slide_31">
+</p>
+<br>
+<hr>
