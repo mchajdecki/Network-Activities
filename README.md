@@ -491,3 +491,17 @@
 </p>
 <br>
 <hr>
+
+<p>
+  <ol type="1">
+     <li>If all the information in the previous steps is filled out correectly - IP Address - Username and Password.</li>
+     <li>The Microsoft Windows welcome screen will display.</li>
+    
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a55f28abce071d97f3a72bc2333e5d27be3b32b0/images/Slide_30.jpg" alt="LogIn - Slide_30"/>
+</p>
+<br>
+<hr>
+
