@@ -627,7 +627,7 @@
 
 <p>
   <ol type="1">
-    <li>This is what the .</li>
+    <li>Search for Wireshark Application and open it.</li>
   </ol>
 </p>
 <p>
