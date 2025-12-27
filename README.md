@@ -595,3 +595,20 @@
 </p>
 <br>
 <hr>
+
+
+
+
+
+
+<p>
+  <ol type="1">
+    <li>Locate the downloaded file; This PC  ➡️  Downloads.</li>
+     <li>Double click to begin installation.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/51560a69d1de981cd018a0f3822a44ecacd7909e/images/Slide_37.jpg" alt="Wireshark - Slide_37"/>
+</p>
+<br>
+<hr>
