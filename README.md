@@ -598,9 +598,6 @@
 
 
 
-
-
-
 <p>
   <ol type="1">
     <li>Continue through the Wireshark Installation steps.</li>
@@ -608,6 +605,33 @@
 </p>
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/51560a69d1de981cd018a0f3822a44ecacd7909e/images/Slide_37.jpg" alt="Wireshark - Slide_37"/>
+</p>
+<br>
+<hr>
+
+
+
+
+<p>
+  <ol type="1">
+    <li>Search for the Wireshark Application and open it.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/729053c9ff2c05a0304269cc85e1e4784fe77ea8/images/Slide_38.jpg" alt="Wireshark - Slide_38"/>
+</p>
+<br>
+<hr>
+
+
+
+<p>
+  <ol type="1">
+    <li>This is what the .</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/729053c9ff2c05a0304269cc85e1e4784fe77ea8/images/Slide_38.jpg" alt="Wireshark - Slide_38"/>
 </p>
 <br>
 <hr>
