@@ -603,8 +603,7 @@
 
 <p>
   <ol type="1">
-    <li>Locate the downloaded file; This PC  ➡️  Downloads.</li>
-     <li>Double click to begin installation.</li>
+    <li>Continue through the Wireshark Installation steps.</li>
   </ol>
 </p>
 <p>
