@@ -627,7 +627,7 @@
 <p>
   <ol type="1">
     <li>This is what the home portal of the Wireshark Application will look like.</li>
-     <li>To start a packet capture - have the Ethernet adapted selected and click on the blue shark fin in the the left corner to begin capture.</li>
+     <li>To start a packet capture - have the Ethernet adapter selected and click on the blue shark fin in the the top left corner to begin capture.</li>
   </ol>
 </p>
 <p>
