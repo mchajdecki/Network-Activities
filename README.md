@@ -642,7 +642,7 @@
 <p>
   <ol type="1">
     <li>Once the packet capture begins you will see all the traffic thats happening on the back end of the computer you are using.</li>
-     <li>An IP packet is a small chunk of data sent over the internet that contains both the information being transferred and the necessary details like (addresses) for getting it to the right destination./li>
+     <li>An IP packet is a small chunk of data sent over the internet that contains both the information being transferred and the necessary details like (addresses) for getting it to the right destination.</li>
      <li>The Wireshark sofware will capture the analysis from performing other various network tests.</li>
      <li>This concludes the download and installation of Wireshark.</li>
 </li>
