@@ -649,7 +649,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/592562c18202f29608ac3b09cd88581bb93c9e8f/images/Slide_40.jpg" alt="Wireshark - Slide_40"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a7a01eda2dcf0ca2eb107e68f08bc6a6a2eac787/images/Slide_40.jpg" alt="Wireshark - Slide_40"/>
 </p>
 <br>
 <hr>
