@@ -12,7 +12,7 @@
 <li><a href="#vm">Creating Resources In Azure</a></li>
 <li><a href="#login">Logging into Virtual Machine</a></li>
 <li><a href="#wireshark">Installing A Protocol Analyzer - Wireshark</a></li>
-<li><a href="#ping">How to See if Virtual Machines and Devices are Reachable with Ping</a></li>
+<li><a href="#ping">Testing connection to Virtual Machines and Devices with Ping</a></li>
 <li><a href="#firewall">Configuring A Firewall</a></li>
 <li><a href="#ssh">Observe (SSH) Secure Shell</a></li>
 <li><a href="#dhcp">Observe (DHCP) Dynamic Host Configuration Protocol Traffic</a></li>
