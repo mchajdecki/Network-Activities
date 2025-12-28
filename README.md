@@ -679,8 +679,8 @@
 
 <p>
   <ol type="1">
-     <li>In the overview page of the LinuxVM locate the Private IP address.</li>
-     <li>Save it in your notes as we will use this IP address to ping from Windows to Linux</li>
+     <li>In the overview page of the Linux VM locate the Private IP address.</li>
+     <li>Save it in your notes as we will use this IP address to ping from Windows VM to the Linux VM.</li>
   </ol>
 </p>
 <p>
