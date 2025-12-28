@@ -660,7 +660,7 @@
 
 
 
-<h1 id="resource"><i>Testing connection to Virtual Machines and Devices with Ping</i></h1>
+<h1 id="ping"><i>Testing connection to Virtual Machines and Devices with Ping</i></h1>
 <h2>Ping is a network tool that sends a "handshake" signal to another device to see if it is online and measure how fast it responds.</h2>
 
 <p>
