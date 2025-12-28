@@ -652,5 +652,26 @@
 <img src="https://github.com/mchajdecki/Network-Activities/blob/a7a01eda2dcf0ca2eb107e68f08bc6a6a2eac787/images/Slide_40.jpg" alt="Wireshark - Slide_40"/>
 </p>
 <br>
+<br>
+<br>
 <hr>
 
+
+
+
+
+<h1 id="resource"><i>Testing connection to Virtual Machines and Devices with Ping</i></h1>
+<h2>Ping is a network tool that sends a "handshake" signal to another device to see if it is online and measure how fast it responds.</h2>
+
+<p>
+  <ol type="1">
+     <li>First we have to gather some information in order to use Ping.</li>
+     <li>Navigate to Microsoft Azure main portal.</li>
+    <li>Locate and click on the Linux VM.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/7880ef525f6c868aa0d0fb0771b91f30b6d52dec/images/Slide_41.jpg" alt="Ping - Slide_41"/>
+</p>
+<br>
+<hr>
