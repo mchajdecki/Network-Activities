@@ -677,6 +677,7 @@
 <hr>
 
 
+
 <p>
   <ol type="1">
      <li>In the overview page of the Linux VM locate the Private IP address.</li>
@@ -685,6 +686,19 @@
 </p>
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/d781471a4c6d76bf9723bebcbc79c6b5e1b4fae6/images/Slide_42.jpg" alt="Ping - Slide_42"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>Go back to the Windows Virtual Machine and Wireshark to start a new packet capture.</li>
+     <li>To start a packet capture have the Ethernet adapter selected and click on the blue shark fin.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/bca4591bc983209132c67ad8ef1d09e62eab2441/images/Slide_43.jpg" alt="Ping - Slide_43"/>
 </p>
 <br>
 <hr>
