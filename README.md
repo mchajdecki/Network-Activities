@@ -675,3 +675,18 @@
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+     <li>On the Overview of the LinuxVM locate the Private IP address.</li>
+     <li>Save it in your notes as we will use this IP address to ping from Windows to Linux</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/d781471a4c6d76bf9723bebcbc79c6b5e1b4fae6/images/Slide_42.jpg" alt="Ping - Slide_42"/>
+</p>
+<br>
+<hr>
+
+
