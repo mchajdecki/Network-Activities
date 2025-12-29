@@ -703,4 +703,15 @@
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+     <li>In the search box filter in Wireshark filter for ICMP traffic only.</li>
+     <li>ICMP (Internet Control Message Protocol) is the specialized "language" that network devices use to send status updates, report errors, and check if a destination is reachable.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/614493e4d97a9053760a8efb42202ca6fe2c8d06/images/Slide_44.jpg" alt="Ping - Slide_44"/>
+</p>
+<br>
+<hr>
 
