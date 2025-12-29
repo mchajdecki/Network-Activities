@@ -706,11 +706,24 @@
 <p>
   <ol type="1">
      <li>In the search box filter in Wireshark filter for ICMP traffic only.</li>
-     <li>ICMP (Internet Control Message Protocol) is the specialized "language" that network devices use to send status updates, report errors, and check if a destination is reachable.</li>
+     <li>ICMP (Internet Control Message Protocol) is the specialized "language" that network devices use to send status updates, report errors, and check if a destination is reachable. This will show the ping we are attempting</li>
   </ol>
 </p>
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/614493e4d97a9053760a8efb42202ca6fe2c8d06/images/Slide_44.jpg" alt="Ping - Slide_44"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>Observe the packet capture while filtering for ICMP traffic.</li>
+     <li>Search for and open up Windows PowerShell.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/7961038243a7399e5a638de5fb48c9a8a8004ef1/images/Slide_45.jpg" alt="Ping - Slide_45"/>
 </p>
 <br>
 <hr>
