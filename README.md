@@ -685,7 +685,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/d781471a4c6d76bf9723bebcbc79c6b5e1b4fae6/images/Slide_42.jpg" alt="Ping - Slide_42"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a7bd11307dc84f3fca4eca8d6c07ce75717f0665/images/Slide_42.jpg" alt="Ping - Slide_42"/>
 </p>
 <br>
 <hr>
