@@ -718,12 +718,12 @@
 
 <p>
   <ol type="1">
-     <li>Observe the packet capture while filtering for ICMP traffic.</li>
+     <li>Keep filtering for ICMP (Internet Control Message Protocol) in Wireshark.</li>
      <li>Search for and open up Windows PowerShell.</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/7961038243a7399e5a638de5fb48c9a8a8004ef1/images/Slide_45.jpg" alt="Ping - Slide_45"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/02b4e51aa1155c3ac574808d9e1996e5c8f32bd4/images/Slide_45.jpg" alt="Ping - Slide_45"/>
 </p>
 <br>
 <hr>
