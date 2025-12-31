@@ -728,3 +728,18 @@
 <br>
 <hr>
 
+
+
+<p>
+  <ol type="1">
+     <li>In the Powershell Window type in the "ping" command plus the private IP address gathered from the Linux Virtual Machine.</li>
+     <li>Then press Enter to run the command.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/22bb3bcac9b9c9637bef157ef3a574703bbb7797/images/Slide_46.jpg" alt="Ping - Slide_46"/>
+</p>
+<br>
+<hr>
+
+
