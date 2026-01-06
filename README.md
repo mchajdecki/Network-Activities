@@ -743,3 +743,15 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+     <li>After we run the command in Powershell we see that it shows a successful connection where the Windows VM sends a "request" and the Linux VM sends a "reply", confirming both machines are talking to each other with zero data loss.</li>
+     <li>Wireshark acts as a digital observer, capturing every ICMP packet to provide a visual "transcript" of the conversation between your Windows and Linux virtual machines.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/9914966483a74b47b24f24e3a398cb86bec68ddf/images/Slide_47.jpg" alt="Ping - Slide_47"/>
+</p>
+<br>
+<hr>
+
