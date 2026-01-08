@@ -775,7 +775,7 @@
 <p>
   <ol type="1">
      <li>The command will run a non-stop ping.</li>
-     <li>A request from the Source Windows VM 10.0.0.4 and a Reply from the destination Linux VM 10.0.0.5.</li>
+     <li>A request from the Source Windows VM 10.0.0.4 and a Reply from the Destination Linux VM 10.0.0.5.</li>
   </ol>
 </p>
 <p>
