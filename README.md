@@ -13,7 +13,7 @@
 <li><a href="#login">Logging into Virtual Machine</a></li>
 <li><a href="#wireshark">Installing A Protocol Analyzer - Wireshark</a></li>
 <li><a href="#ping">Testing connection to Virtual Machines and Devices with Ping</a></li>
-<li><a href="#firewall">Configuring A Firewall</a></li>
+<li><a href="#firewall">Configuring A Firewall - Network Security Group</a></li>
 <li><a href="#ssh">Observe (SSH) Secure Shell</a></li>
 <li><a href="#dhcp">Observe (DHCP) Dynamic Host Configuration Protocol Traffic</a></li>
 <li><a href="#dns">Observe (DNS) Domain Name System Traffic</a></li>
@@ -740,6 +740,8 @@
 <img src="https://github.com/mchajdecki/Network-Activities/blob/22bb3bcac9b9c9637bef157ef3a574703bbb7797/images/Slide_46.jpg" alt="Ping - Slide_46"/>
 </p>
 <br>
+<br>
+<br>
 <hr>
 
 
@@ -754,4 +756,20 @@
 </p>
 <br>
 <hr>
+
+
+
+<h1 id="firewall"><i>Configuring A Firewall - Network Security Group</i></h1>
+<h2>Implementing an Inbound Security Rule to successfully deny ICMP traffic on a virtual machine.</h2>
+ <p>
+    <ol type="1">
+       <li>Open Wireshark, start a new packet capture and filter for ICMP traffic only.</li>
+       <li>Open Windows Powershell and type in the continue ping command which is (ping + IP address + -t) click enter to run the command. </li>
+ </p>
+ <p>
+    <img src="https://github.com/mchajdecki/Network-Activities/blob/fab4af9a64e7e17b58e5845741641353a7c96bcd/images/Slide_48.jpg" alt="Firewall - Slide_48"/>
+ </p>
+ <br>
+ <hr>
+
 
