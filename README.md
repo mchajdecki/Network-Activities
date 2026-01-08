@@ -740,8 +740,6 @@
 <img src="https://github.com/mchajdecki/Network-Activities/blob/22bb3bcac9b9c9637bef157ef3a574703bbb7797/images/Slide_46.jpg" alt="Ping - Slide_46"/>
 </p>
 <br>
-<br>
-<br>
 <hr>
 
 
@@ -773,5 +771,21 @@
  </p>
  <br>
  <hr>
+
+<p>
+  <ol type="1">
+     <li>The command will run a non-stop ping.</li>
+     <li>A request from the Source Windows VM 10.0.0.4 and a Reply from the destination Linux VM 10.0.0.5.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/c239bdca46330539593d0e9d463e666783622898/images/Slide_49.jpg" alt="Ping - Slide_49"/>
+</p>
+<br>
+<hr>
+
+ 
+
+
 
 
