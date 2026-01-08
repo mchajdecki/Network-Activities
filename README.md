@@ -799,5 +799,28 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+     <li>Click on Networking to open more options.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/cf207572497eb3e5d1fa2661f7dd4d4aafd664f4/images/Slide_51.jpg" alt="Firewall- Slide_51"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>In Networking click on Network settings to expand.</li>
+     <li>Then click on the selection in the Network Security Group - LinuxVM - nsg.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/78262d4d48963f665a1609a1ec4388b8c5f8ce4f/images/Slide_52.jpg" alt="Firewall- Slide_52"/>
+</p>
+<br>
+<hr>
 
 
