@@ -779,12 +779,23 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/c239bdca46330539593d0e9d463e666783622898/images/Slide_49.jpg" alt="Ping - Slide_49"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/c239bdca46330539593d0e9d463e666783622898/images/Slide_49.jpg" alt="Firewall - Slide_49"/>
 </p>
 <br>
 <hr>
 
- 
+
+<p>
+  <ol type="1">
+     <li>Navigate to the Microsoft Azure main portal.</li>
+     <li>Click on Linux VM.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/46cf423d629a22cca497c1558cb134a7253599e7/images/Slide_50.jpg" alt="Firewall- Slide_50"/>
+</p>
+<br>
+<hr>
 
 
 
