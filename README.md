@@ -755,6 +755,8 @@
 <img src="https://github.com/mchajdecki/Network-Activities/blob/9914966483a74b47b24f24e3a398cb86bec68ddf/images/Slide_47.jpg" alt="Ping - Slide_47"/>
 </p>
 <br>
+<br>
+<br>
 <hr>
 
 
