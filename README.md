@@ -814,7 +814,7 @@
 <p>
   <ol type="1">
      <li>In Networking click on Network settings to expand.</li>
-     <li>Then click on the selection in the Network Security Group - LinuxVM - nsg.</li>
+     <li>Then click on the selection in the Network Security Group - (LinuxVM-nsg).</li>
   </ol>
 </p>
 <p>
@@ -826,7 +826,7 @@
 
 <p>
   <ol type="1">
-     <li>Once you are in the Network Security Group - LinuxVM - nsg.</li>
+     <li>Once you are in the Network Security Group - (LinuxVM-nsg).</li>
      <li>Expand the settings drop down menu and click on Inbound security rules.</li>
   </ol>
 </p>
