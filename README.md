@@ -889,3 +889,50 @@
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+     <li>Once the deleted Inbound security rule is complete it will dissapear from the list.</li>
+     <li>A Deleted security rule confirmation will appear.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/787032a0a395c706e6e040b02323604752055d04/images/Slide_58.jpg" alt="Firewall- Slide_58"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>Go back to Wireshark and Windows Powershell to observe the activity after the firewall inbound security group was deleted.</li>
+     <li>Notice that the continous ping has restarted back up and its running again.</li>
+     <li>To stop the ping command click Control + C.</li>
+     <li>This concludes how to Configure a firewall.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/54ea93dbbf55655ff9ebc1c426069f8e2732ed6f/images/Slide_59.jpg" alt="Firewall- Slide_59"/>
+</p>
+<br>
+<br>
+<br>
+<hr>
+
+
+
+<h1 id="ssh"><i>Observe (SSH) Secure Shell Protocol</i></h1>
+<h2>Write Example Sentence</h2>
+ <p>
+    <ol type="1">
+       <li>Tutorial1.</li>
+       <li>Tutorial2. </li>
+ </p>
+ <p>
+    <img src="" alt="ssh - Slide_60"/>
+ </p>
+ <br>
+ <hr>
+
+
