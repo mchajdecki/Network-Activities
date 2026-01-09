@@ -875,3 +875,17 @@
 </p>
 <br>
 <hr>
+
+
+<p>
+  <ol type="1">
+     <li>Go back into the Azure LinuxVM-nsg Network Security Group.</li>
+     <li>Select the created Security Group and delete - click yes to confirm.</li>
+     <li>To Navigate back to the LinuxVM-nsg - Go to Azure Main Portal - Linux VM - Networking - Network Settings - Network Security Group - LinuxVM-nsg - Settings - Inbound Security Rules</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/6fd18d505837e64f96a563989b46f38b9999101f/images/Slide_57.jpg" alt="Firewall- Slide_57"/>
+</p>
+<br>
+<hr>
