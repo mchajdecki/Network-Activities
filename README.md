@@ -849,3 +849,15 @@
 <br>
 <hr>
 
+
+<p>
+  <ol type="1">
+     <li>Fill in the Add inbound security rule box with the following information.</li>
+     <li>Click Add to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/1dba132c57cc6ff9f46f338d55b690cceae37ed5/images/Slide_55.jpg" alt="Firewall- Slide_55"/>
+</p>
+<br>
+<hr>
