@@ -836,3 +836,16 @@
 <br>
 <hr>
 
+
+<p>
+  <ol type="1">
+     <li>Click +Add to Add a new inbound security rule.</li>
+     <li>Observe a box pop up on the screen./li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/b604a3736d8d744d4ffef644f75360a977a6a4d8/images/Slide_54.jpg" alt="Firewall- Slide_54"/>
+</p>
+<br>
+<hr>
+
