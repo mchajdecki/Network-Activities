@@ -824,3 +824,15 @@
 <hr>
 
 
+<p>
+  <ol type="1">
+     <li>Once you are in the Network Security Group - LinuxVM - nsg.</li>
+     <li>Expand the settings drop down menu and click on Inbound security rules.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/f5551028ba590f13fc53fd375492283a1d2f3cb8/images/Slide_53.jpg" alt="Firewall- Slide_53"/>
+</p>
+<br>
+<hr>
+
