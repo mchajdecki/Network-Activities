@@ -14,7 +14,7 @@
 <li><a href="#wireshark">Installing A Protocol Analyzer - Wireshark</a></li>
 <li><a href="#ping">Testing connection to Virtual Machines and Devices with Ping</a></li>
 <li><a href="#firewall">Configuring A Firewall - Network Security Group</a></li>
-<li><a href="#ssh">Observe (SSH) Secure Shell</a></li>
+<li><a href="#ssh">Observe (SSH) Secure Shell Protocol Traffic</a></li>
 <li><a href="#dhcp">Observe (DHCP) Dynamic Host Configuration Protocol Traffic</a></li>
 <li><a href="#dns">Observe (DNS) Domain Name System Traffic</a></li>
 <li><a href="#rdp">Observe (RDP) Remote Desktop Protocol Traffic</a></li>
