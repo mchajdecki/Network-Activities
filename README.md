@@ -942,7 +942,6 @@
 </p>
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/f27c21f2e758e03ffca6c8e5703c0b9fd6f4ab34/images/Slide_61.jpg" alt="SSH - Slide_61"/>
-<img src="" alt="SSH - Slide_61"/>
 </p>
 <br>
 <hr>
