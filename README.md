@@ -923,16 +923,65 @@
 
 
 <h1 id="ssh"><i>Observe (SSH) Secure Shell Protocol</i></h1>
-<h2>Write Example Sentence</h2>
+<h2>SSH is a secure digital tunnel that lets you safely control another computer from far away by locking your data in an encrypted box so nobody can steal your information.</h2>
  <p>
     <ol type="1">
-       <li>Tutorial1.</li>
-       <li>Tutorial2. </li>
+       <li>Navigate to the Azure main portal.</li>
+       <li>Click on the Linux VM where we will gather information for this tutorial.</li>
  </p>
  <p>
-    <img src="" alt="ssh - Slide_60"/>
+    <img src="https://github.com/mchajdecki/Network-Activities/blob/60bf7f3d86db5bee68935bf7379062a505cee7d5/images/Slide_60.jpg" alt="SSH - Slide_60"/>
  </p>
  <br>
  <hr>
+
+ <p>
+  <ol type="1">
+     <li>Copy and paste or save the private IP address of the Linux VM.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/f27c21f2e758e03ffca6c8e5703c0b9fd6f4ab34/images/Slide_61.jpg" alt="SSH - Slide_61"/>
+<img src="" alt="SSH - Slide_61"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li>Log back into the Windows VM and open up the Wireshark App.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/4b2d8a337f9ecf96aee548b753368cb3138fe8e2/images/Slide_62.jpg" alt="SSH - Slide_62"/>
+</p>
+<br>
+<hr>
+
+
+ <p>
+  <ol type="1">
+     <li>In the Wireshark App start a new packet capture.</li>
+     <li>To start a packet capture have the Ethernet adapter selected and click on the blue shark fin to begin.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/9b811011533e798a5282d02602e006937e5d7808/images/Slide_63.jpg" alt="SSH - Slide_63"/>
+</p>
+<br>
+<hr>
+
+
+ <p>
+  <ol type="1">
+     <li>Filter for SSH traffic only.</li>
+  </ol>
+</p>
+<p>
+<img src="" alt="SSH - Slide_64"/>
+</p>
+<br>
+<hr>
+
 
 
