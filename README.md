@@ -977,10 +977,69 @@
   </ol>
 </p>
 <p>
-<img src="" alt="SSH - Slide_64"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/1447668338d816e00038d79511c7bf9dcaeb03e9/images/Slide_64.jpg" alt="SSH - Slide_64"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li>Open up Windows PowerShell.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/4cdf1601fbe72c1a79c4f4f86fbb394de6a2b205/images/Slide_65.jpg" alt="SSH - Slide_65"/>
 </p>
 <br>
 <hr>
 
 
+<p>
+  <ol type="1">
+     <li>In Powershell type in Linux username in the following order.</li>
+     <li>Press Enter to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/72dd0c9efc8bd428b5c7c35a0beb8ecbbae0b9eb/images/Slide_66.jpg" alt="SSH - Slide_66"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>The SSh traffic will now be shown in Wireshark.</li>
+     <li>Type in yes and hit enter to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/02539e56e4f619d6c1567f9ce37fb5f4a2f3be1f/images/Slide_67.jpg" alt="SSH - Slide_67"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li>More SSH traffic will show in Wireshark.</li>
+     <li>Type in your password and press enter to continue. * Note - You will not be able to see your password being typed out but if you input it correctly and press Enter it will continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/67f6fedafe0912384753696b56de3c98deb9bf20/images/Slide_68.jpg" alt="SSH - Slide_68"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li>Now we are seeing the Windows computer (the client) remotely managing a Linux computer (the server). This is a standard administrative connection used to run commands on a machine that isn't physically in front of you.</li>
+     <li>Type in your password and press enter to continue. * Note - You will not be able to see your password being typed out but if you input it correctly and press Enter it will continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/4f559ff31b7fbb2b0a097682f17e8151c3ff3271/images/Slide_69.jpg" alt="SSH - Slide_69"/>
+</p>
+<br>
+<hr>
 
