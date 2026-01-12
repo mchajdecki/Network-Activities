@@ -1043,3 +1043,15 @@
 <br>
 <hr>
 
+<p>
+  <ol type="1">
+     <li>You can type various commands to test the connection to the Linux VM.</li>
+     <li>After varifying the information type the exit command to safely close the secure tunnel - hostname will now show Windows VM.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a7aa742185f01c426f4e7a9a5cb18bd05cda8040/images/Slide_70.jpg" alt="SSH - Slide_70"/>
+</p>
+<br>
+<hr>
+
