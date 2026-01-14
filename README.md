@@ -1047,11 +1047,128 @@
   <ol type="1">
      <li>You can type various commands to test the connection to the Linux VM.</li>
      <li>After varifying the information type the exit command to safely close the secure tunnel - hostname will now show Windows VM.</li>
+     <li>This concludes this portion of traffic analysis and the encrypted tunnel connection to the Linux machine through the Windows Virtual Machine SSH.</li>
   </ol>
 </p>
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/a7aa742185f01c426f4e7a9a5cb18bd05cda8040/images/Slide_70.jpg" alt="SSH - Slide_70"/>
 </p>
+<br>
+<br>
+<br>
+<hr>
+
+
+
+<h1 id="dhcp"><i>Observe (DHCP) Dynamic Host Configuration Protocol Traffic.</i></h1>
+<h2>DHCP is an automated service that assigns unique IP addresses and network settings to devices so they can connect to the internet instantly. In this tutorial, we will use Wireshark to observe this live "negotiation" as we trigger a fresh address request by performing a release and renew command in PowerShell.</h2>
+ <p>
+    <ol type="1">
+       <li>Navigate to the Wireshark App in your Windows Virtual Machine.</li>
+       <li>Start a new packet capture.</li>
+ </p>
+ <p>
+    <img src="https://github.com/mchajdecki/Network-Activities/blob/151ce0f8c0466e0cec22d2a42d1ae0d54e0a5d29/images/Slide_71.jpg" alt="DHCP - Slide_71"/>
+ </p>
+ <br>
+ <hr>
+
+ <p>
+  <ol type="1">
+     <li>Filter for DHCP or you can also filter for udp.port == 67 || udp.port == 68.</li>
+     <li>DHCP uses Ports 67 and 68 to keep traffic organized, Server listening on port 67 to receive requests and the Client listening on Port 68 to receive its assigned address.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/d4752a80153d69c8f417f1e9f637d3382d625055/images/Slide_72.jpg" alt="DHCP - Slide_72"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li>Open notepad in the Windows Virtual Machine.</li>
+     <li>Type in the notepad the commands ipconfig /release and ipconfig /renew.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/5da21373dca8344eed4b615dd87cc8c4006a51a2/images/Slide_73.jpg" alt="DHCP - Slide_73"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li>Click on File then Save As.</li>
+     <li>Type c:\programdata to find the location to save into.</li>
+     <li>Name as dhcp.bat *(.bat is a script file).</li>
+     <li>Click Save to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/2e3a394be8532b56fbae1d9798cf87b2d70d066d/images/Slide_74.jpg" alt="DHCP - Slide_74"/>
+</p>
+<br>
+<hr>
+
+
+ <p>
+  <ol type="1">
+     <li>Open Windows Powershell.</li>
+     <li>Type in cd c:\programdata in the command line and press enter.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/604e8cd271f842fb1b179502c8a75cc4c9428860/images/Slide_75.jpg" alt="DHCP - Slide_75"/>
+</p>
+<br>
+<hr>
+
+
+ <p>
+  <ol type="1">
+     <li>After the c:\programdata in the command line type in ls which will generate a list of whats in that drive.</li>
+     <li>Notice the dhcp.bat file listed there.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/d68a1b52633045189c99abc6f9310f28cd983204/images/Slide_76.jpg" alt="DHCP - Slide_76"/>
+</p>
+<br>
+<hr>
+
+
+ <p>
+  <ol type="1">
+     <li>Type in .\dhcp.bat and press enter to run the command.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/a762c1e5f00f895f16daaccfd6764527b2c16a96/images/Slide_77.jpg" alt="DHCP - Slide_77"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li>The analysis in Wireshark shows the device successfully resetting its network connection by releasing its old IP address and immediately negotiating a new one throught the four-step network handshake.</li>
+     <li>
+• Release: The device tells the serve it is done using its current IP address. 
+• Discover: The device broadcasts a search for any available DHCP server on the network.
+• Offer: The server responds with an available IP address for the device to use.
+• Request: The device officially asks the server to reserve that specific address. 
+• ACK (Acknowledgment): The server confirms the assignment and provides the final network settings.
+</li>
+     <li></li>
+     <li></li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/1d03a39e3a3a69dd328d7147fc8973c9f9757571/images/Slide_78.jpg" alt="DHCP - Slide_78"/>
+</p>
+<br>
+<br>
+<br>
 <br>
 <hr>
 
