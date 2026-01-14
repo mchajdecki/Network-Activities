@@ -1159,8 +1159,6 @@
 • Request: The device officially asks the server to reserve that specific address. 
 • ACK (Acknowledgment): The server confirms the assignment and provides the final network settings.
 </li>
-     <li></li>
-     <li></li>
   </ol>
 </p>
 <p>
