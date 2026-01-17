@@ -1170,3 +1170,90 @@
 <br>
 <hr>
 
+<h1 id="dns"><i>Observe (DNS) Domain Name System Traffic.</i></h1>
+<h2>DNS - (Domain Name System) is the internet's phonebook that translates the website names you type into the numeric IP addresses computers use to connect.</h2>
+ <p>
+    <ol type="1">
+       <li>Make sure you are logged into the Winodws VM and go to the Wireshark app.</li>
+       <li>Start a new packet capture.</li>
+ </p>
+ <p>
+    <img src="https://github.com/mchajdecki/Network-Activities/blob/f09cd2a6b7ced22a9fef087899cb611a3e489984/images/Slide_79.jpg" alt="DNS - Slide_79"/>
+ </p>
+ <br>
+ <hr>
+
+  <p>
+  <ol type="1">
+     <li>In Wireshark filter for DNS.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/469a3303c5498e4a0d5da5ddf16d34ee11cfe98b/images/Slide_80.jpg" alt="DNS - Slide_80"/>
+</p>
+<br>
+<hr>
+
+
+ <p>
+  <ol type="1">
+     <li>Open up Windows PowerShell and in the terminal type in nslookup which is a command-line tool that is used to test and troubleshoot the Domain Name Systems (DNS).</li>
+     <li>Following the nslookup tool type in the website of your choice to test - in this example im using www.google.com.</li>
+     <li>Press Enter to run the command.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/50aedafd666a75ef3edfaab968be689501e10f2c/images/Slide_81.jpg" alt="DNS - Slide_81"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>In Powershell after we run the command nslookup www.google.com - the computer asked a DNS server for Google's "phone number (IP address), and the server replied with a list of addresses where the website is located.</li>
+     <li>In Wireshark where the packets are being captured - the Windows VM (10.0.0.4) sent a request asking "Where is google.com?" - The DNS server (168.63.129.16) sent back the answer you see in the blue window.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/f9e7beb4f46f2fca95d3c0c72b860aaba23d4c33/images/Slide_82.jpg" alt="DNS - Slide_82"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>Copy and paste the provided IP address to test in the browser.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/f3aacf4a83f2d2d92515c1f8a70edb7d256f5dcc/images/Slide_83.jpg" alt="DNS - Slide_83"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li>Copy and paste the IP address into the browser and press enter.</li>
+     <li>Click continue on this link to go to the website.</li>
+     <li>By entering the IP address directly into the browser, you are bypassing the DNS "phonebook" lookup and going straight to the server's digital door, which often triggers a security warning because the website's security certificate is registered to its name (google.com) rather than its numeric address.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/c15b4e7e5211fa9887b57a07064aa2c3372ae480/images/Slide_84.jpg" alt="DNS - Slide_84"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li>The google.com page pops up.</li>
+     <li>Even though the browser flags the connection as "not private," clicking "continue" allows the site to load because the nslookup command successfully provided the server's direct "GPS coordinates" (IP address), proving that the DNS server is working correctly behind the scenes to translate the name into a reachable destination.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/18af9833c90b5926733e0c1ab4df76c106ddfec5/images/Slide_85.jpg" alt="DNS - Slide_85"/>
+</p>
+<br>
+<hr>
