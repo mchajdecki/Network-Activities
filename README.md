@@ -1156,7 +1156,7 @@
   <li>Release: The device tells the serve it is done using its current IP address. </li>
   <li>Discover: The device broadcasts a search for any available DHCP server on the network.</li>
   <li>Offer: The server responds with an available IP address for the device to use.</li>
-  <li></li>Request: The device officially asks the server to reserve that specific address.</li>
+  <li>Request: The device officially asks the server to reserve that specific address.</li>
   <li>Request: The device officially asks the server to reserve that specific address.</li>
   <li>ACK (Acknowledgment): The server confirms the assignment and provides the final network settings</li>   
      </ul>
