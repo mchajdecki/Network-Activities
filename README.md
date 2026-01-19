@@ -1186,11 +1186,11 @@
 
   <p>
   <ol type="1">
-     <li>In Wireshark filter for DNS.</li>
+     <li>In Wireshark filter for DNS or its port - udp.port == 53 || tcp.port == 53.</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/469a3303c5498e4a0d5da5ddf16d34ee11cfe98b/images/Slide_80.jpg" alt="DNS - Slide_80"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/2cfee46651e86b0660614d36d17041d8266e0c87/images/Slide_80.jpg" alt="DNS - Slide_80"/>
 </p>
 <br>
 <hr>
