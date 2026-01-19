@@ -1152,9 +1152,12 @@
  <p>
   <ol type="1">
      <li>The analysis in Wireshark shows the device successfully resetting its network connection by releasing its old IP address and immediately negotiating a new one throught the four-step network handshake.</li>
-     <li>
-• Release: The device tells the serve it is done using its current IP address. 
-• Discover: The device broadcasts a search for any available DHCP server on the network.
+     <ul>
+  <li>• Release: The device tells the serve it is done using its current IP address. </li>
+  <li>• Discover: The device broadcasts a search for any available DHCP server on the network.</li>
+  <li>• Offer: The server responds with an available IP address for the device to use.</li>
+</ul><li>
+
 • Offer: The server responds with an available IP address for the device to use.
 • Request: The device officially asks the server to reserve that specific address. 
 • ACK (Acknowledgment): The server confirms the assignment and provides the final network settings.
