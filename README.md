@@ -1257,4 +1257,49 @@
 <img src="https://github.com/mchajdecki/Network-Activities/blob/18af9833c90b5926733e0c1ab4df76c106ddfec5/images/Slide_85.jpg" alt="DNS - Slide_85"/>
 </p>
 <br>
+<br>
+<br>
+<br>
+<hr>
+
+
+<h1 id="dns"><i>Observe (RDP) Remote Desktop Protocol.</i></h1>
+<h2>RDP stands for (Remote Desktop Protocol), a technology that allows you to connect to and control a distant computer over a network as if you were sitting directly in front of it.</h2></h2>
+ <p>
+    <ol type="1">
+       <li>Navigate to Wireshark and start a new packet capture.</li>
+ </p>
+ <p>
+    <img src="https://github.com/mchajdecki/Network-Activities/blob/405c23d2c64998514e1d83c1162b5f9176d0a484/images/Slide_86.jpg" alt="RDP - Slide_86"/>
+ </p>
+ <br>
+ <hr>
+
+ <p>
+  <ol type="1">
+     <li>In Wireshark filter for the standard RDP port which is - tcp.port == 3389.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/4f8b497e6d29083252d9455de55c1bd29f2f59c1/images/Slide_87.jpg" alt="RDP - Slide_87"/>
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+     <li></li>
+      <ul>
+  <li>Filter: The filter tcp.port == 3389 is used to isolate Remote Desktop traffic from all other network activity.</li>
+  <li>Protocol: The TLSv1.2 label confirms the session is encrypted, ensuring that the live stream of data remains private and secure.</li>
+  <li>Real-Time Stream: RDP acts as a nonstop live stream of "Application Data," constantly sending every screen change and mouse movement between the devices.</li>
+  <li>Network Health: The highlighted black and red rows indicate TCP retransmissions, which occur when the network drops a piece of that live stream and must quickly resend it.</li>
+  <li>Packet Details: The bottom panels display the raw technical details of the connection, such as the specific IP and MAC addresses involved in the stream.</li>
+     </ul>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/aa3b552334cff49c4d28b4f63a843440dc8a1482/images/Slide_88.jpg" alt="RDP - Slide_88"/>
+</p>
+<br>
 <hr>
