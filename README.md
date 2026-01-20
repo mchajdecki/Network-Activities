@@ -1325,6 +1325,7 @@
   <p>
   <ol type="1">
      <li>Filter for ICMP traffic - ICMP does not use a port.</li>
+     <li>ICMP does not use a port because it operates at the Network Layer (Layer 3) rather than the Transport Layer where ports like 3389 are defined.</li>
   </ol>
 </p>
 <p>
@@ -1336,6 +1337,28 @@
  <p>
   <ol type="1">
      <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="ICMP - Slide_91"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+  <li>ICMP traffic in Wireshark and PowerShell Breakdown</li>
+     <ul>
+<li>Definition: ICMP stands for Internet Control Message Protocol and is used by the ping command to send a live stream of diagnostic requests and replies.</li>
+
+<li>Port Usage: Unlike RDP, ICMP does not use ports; it uses "Type" and "Code" numbers to identify the kind of message being sent.</li>
+
+<li>PowerShell Tool: The ipconfig /all command provides a detailed list of your network settings, including your unique MAC address and your DHCP lease info.</li>
+
+<li>Why use it: You use ipconfig /all to identify your machine's specific IP and MAC addresses so you can accurately pick out your own traffic in a crowded Wireshark capture.</li>
+
+<li>Wireshark Filter: Applying the icmp filter isolates the live stream of pings, allowing you to see if your computer is successfully reaching its destination or hitting an error.</li>
+     </ul>
   </ol>
 </p>
 <p>
