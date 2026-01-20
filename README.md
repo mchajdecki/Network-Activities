@@ -1263,7 +1263,7 @@
 <hr>
 
 
-<h1 id="dns"><i>Observe (RDP) Remote Desktop Protocol.</i></h1>
+<h1 id="rdp"><i>Observe (RDP) Remote Desktop Protocol.</i></h1>
 <h2>RDP stands for (Remote Desktop Protocol), a technology that allows you to connect to and control a distant computer over a network as if you were sitting directly in front of it.</h2></h2>
  <p>
     <ol type="1">
@@ -1288,6 +1288,7 @@
 
 <p>
   <ol type="1">
+     <li>Here is a breakdown of whats happening in Wireshark;</li>
       <ul>
   <li>Filter: The filter tcp.port == 3389 is used to isolate Remote Desktop traffic from all other network activity.</li>
   <li>Protocol: The TLSv1.2 label confirms the session is encrypted, ensuring that the live stream of data remains private and secure.</li>
