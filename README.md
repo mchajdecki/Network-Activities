@@ -1311,7 +1311,7 @@
 
 
 <h1 id="icmp"><i>Observe (ICMP) Internet Control Message Protocol Traffic.</i></h1>
-<h2>ICMP stands for (Internet Control Message Protocol), a network-layer protocol used by devices to communicate error messages and operational information about the network's status.</h2>
+<h2>ICMP stands for Internet Control Message Protocol, and its definition is a network diagnostic system used by utilities like ping and traceroute to verify reachability, map data paths, and report transmission errors to ensure efficient communication across the internet.</h2>
  <p>
     <ol type="1">
        <li>Navigate to Wireshark and start a new packet capture.</li>
