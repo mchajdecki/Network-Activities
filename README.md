@@ -18,6 +18,7 @@
 <li><a href="#dhcp">Observe (DHCP) Dynamic Host Configuration Protocol Traffic</a></li>
 <li><a href="#dns">Observe (DNS) Domain Name System Traffic</a></li>
 <li><a href="#rdp">Observe (RDP) Remote Desktop Protocol Traffic</a></li>
+<li><a href="#icmp">Observe (ICMP) Internet Control Message Protocol Traffic</a></li>
 </ul>
 
 <br/>
@@ -1296,10 +1297,51 @@
   <li>Network Health: The highlighted black and red rows indicate TCP retransmissions, which occur when the network drops a piece of that live stream and must quickly resend it.</li>
   <li>Packet Details: The bottom panels display the raw technical details of the connection, such as the specific IP and MAC addresses involved in the stream.</li>
      </ul>
+     <li>This concludes the observation of the Remote Desktop Protocol.</li>
   </ol>
 </p>
 <p>
 <img src="https://github.com/mchajdecki/Network-Activities/blob/aa3b552334cff49c4d28b4f63a843440dc8a1482/images/Slide_88.jpg" alt="RDP - Slide_88"/>
 </p>
 <br>
+<br>
+<br>
+<br>
 <hr>
+
+
+<h1 id="icmp"><i>Observe (ICMP) Internet Control Message Protocol Traffic.</i></h1>
+<h2>ICMP stands for (Internet Control Message Protocol), a network-layer protocol used by devices to communicate error messages and operational information about the network's status.</h2>
+ <p>
+    <ol type="1">
+       <li>Navigate to Wireshark and start a new packet capture.</li>
+ </p>
+ <p>
+    <img src="https://github.com/mchajdecki/Network-Activities/blob/79d45347ccaf1a912cabfebb773acc2af924d725/images/Slide_89.jpg" alt="ICMP - Slide_89"/>
+ </p>
+ <br>
+ <hr>
+
+  <p>
+  <ol type="1">
+     <li>Filter for ICMP traffic - ICMP does not use a port.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/4a2a421cd83b474191f2305eb5b50fc0a3a16491/images/Slide_90.jpg" alt="ICMP - Slide_90"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li></li>
+  </ol>
+</p>
+<p>
+<img src="" alt="ICMP - Slide_91"/>
+</p>
+<br>
+<hr>
+
+
