@@ -1288,7 +1288,6 @@
 
 <p>
   <ol type="1">
-     <li></li>
       <ul>
   <li>Filter: The filter tcp.port == 3389 is used to isolate Remote Desktop traffic from all other network activity.</li>
   <li>Protocol: The TLSv1.2 label confirms the session is encrypted, ensuring that the live stream of data remains private and secure.</li>
