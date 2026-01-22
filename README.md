@@ -1324,8 +1324,7 @@
 
   <p>
   <ol type="1">
-     <li>Filter for ICMP traffic - ICMP does not use a port.</li>
-     <li>ICMP does not use a port because it operates at the Network Layer (Layer 3) rather than the Transport Layer where ports like 3389 are defined.</li>
+     <li>Filter for ICMP traffic - ICMP does not use a port because it operates at the Network Layer (Layer 3) rather than the Transport Layer where ports like 3389 are defined.</li>
   </ol>
 </p>
 <p>
