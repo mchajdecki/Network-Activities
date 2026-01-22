@@ -19,6 +19,7 @@
 <li><a href="#dns">Observe (DNS) Domain Name System Traffic</a></li>
 <li><a href="#rdp">Observe (RDP) Remote Desktop Protocol Traffic</a></li>
 <li><a href="#icmp">Observe (ICMP) Internet Control Message Protocol Traffic</a></li>
+<li><a href="#out">Logging out and cleaning up resources.</a></li>
 </ul>
 
 <br/>
@@ -1335,11 +1336,12 @@
 
  <p>
   <ol type="1">
-     <li></li>
+     <li>Use the ping command in the Windows Powershell and ping a website such as googl.com.</li>
+     <li>Observe the ICMP traffic in Wireshark after the ping happens.</li>
   </ol>
 </p>
 <p>
-<img src="" alt="ICMP - Slide_91"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/174e56ebb4735e9e0585000529ff9cc587fe3b7d/images/Slide_91.jpg" alt="ICMP - Slide_91"/>
 </p>
 <br>
 <hr>
@@ -1349,21 +1351,109 @@
   <li>ICMP traffic in Wireshark and PowerShell Breakdown</li>
      <ul>
 <li>Definition: ICMP stands for Internet Control Message Protocol and is used by the ping command to send a live stream of diagnostic requests and replies.</li>
-
 <li>Port Usage: Unlike RDP, ICMP does not use ports; it uses "Type" and "Code" numbers to identify the kind of message being sent.</li>
-
 <li>PowerShell Tool: The ipconfig /all command provides a detailed list of your network settings, including your unique MAC address and your DHCP lease info.</li>
-
 <li>Why use it: You use ipconfig /all to identify your machine's specific IP and MAC addresses so you can accurately pick out your own traffic in a crowded Wireshark capture.</li>
-
 <li>Wireshark Filter: Applying the icmp filter isolates the live stream of pings, allowing you to see if your computer is successfully reaching its destination or hitting an error.</li>
+<li>This concludes the breakdown of the ICMP protocol and its observation in Wireshark.</li>
      </ul>
   </ol>
 </p>
 <p>
-<img src="" alt="ICMP - Slide_91"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/d4689a1adb6bb870f927b79eb64998bc6891c663/images/Slide_92.jpg" alt="ICMP - Slide_92"/>
+</p>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+
+<h1 id="out"><i>Logging out and cleaning up resources..</i></h1>
+<h2>In the final steps of this tutorial we are going to log out of any virtual remote desktop connections and discard of any resources to manage cost efficiency.</h2>
+ <p>
+    <ol type="1">
+       <li>Place the mouse cursor to the top of the screen a toolbar with options will appear.</li>
+       <li>In Windows app select Quit Windows App</li>
+ </p>COnf
+ <p>
+    <img src="https://github.com/mchajdecki/Network-Activities/blob/a0302f3d3731a8b62351b02079b08ae0306ad9de/images/Slide_93.jpg" alt="out - Slide_93"/>
+ </p>
+ <br>
+ <hr>
+
+ <p>
+  <ol type="1">
+     <li>In the Windows App where we logged into the Virtual Machine select Delete.</li>
+     <li>Confirm after clicking the option.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/911260eb509d45c965bc3c0950e74d6a751840a2/images/Slide_94.jpg" alt="out - Slide_94"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li>Navigate to the Azure main portal and click on Resource groups.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/2b1a002ff9bb2a6ccc4c0b6df9abb96841dd9d52/images/Slide_95.jpg" alt="out - Slide_95"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li>Select the resource group you were using and click on it to proceed.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/75d61e0b259692a9a367da6a7cfbf28f2efa8bb3/images/Slide_96.jpg" alt="out - Slide_96"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li>Click on delete resource group to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/574099b21b5afa98e1a687e0c0adca7aa73d65e0/images/Slide_97.jpg" alt="out - Slide_97"/>
+</p>
+<br>
+<hr>
+
+ <p>
+  <ol type="1">
+     <li>Enter resource group name to confirm deletion and click delete.</li>
+     <li>Once the pop up appears click on Delete again.</li>
+     <li>After the confirmaton displays the resource group has been succesfully deleted.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/1c3353c30ea5b02226296bf33cd08d29b07d2666/images/Slide_98.jpg" alt="out - Slide_98"/>
 </p>
 <br>
 <hr>
 
 
+<h2>This concludes this tutorial on Performing Activities and Network Traffic Analysis Using Microsoft Azure and Wireshark </h2>
+<h2>Use any of the following links below to revisit tutorial sections.</h2>
+<ul>
+<li><a href="#vm">Creating Resources In Azure</a></li>
+<li><a href="#login">Logging into Virtual Machine</a></li>
+<li><a href="#wireshark">Installing A Protocol Analyzer - Wireshark</a></li>
+<li><a href="#ping">Testing connection to Virtual Machines and Devices with Ping</a></li>
+<li><a href="#firewall">Configuring A Firewall - Network Security Group</a></li>
+<li><a href="#ssh">Observe (SSH) Secure Shell Protocol Traffic</a></li>
+<li><a href="#dhcp">Observe (DHCP) Dynamic Host Configuration Protocol Traffic</a></li>
+<li><a href="#dns">Observe (DNS) Domain Name System Traffic</a></li>
+<li><a href="#rdp">Observe (RDP) Remote Desktop Protocol Traffic</a></li>
+<li><a href="#icmp">Observe (ICMP) Internet Control Message Protocol Traffic</a></li>
+<li><a href="#out">Logging out and cleaning up resources.</a></li>
+</ul>
+<a href="#top" ><strong>Back To Top</strong></a>
