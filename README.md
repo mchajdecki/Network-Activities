@@ -1159,7 +1159,6 @@
   <li>Discover: The device broadcasts a search for any available DHCP server on the network.</li>
   <li>Offer: The server responds with an available IP address for the device to use.</li>
   <li>Request: The device officially asks the server to reserve that specific address.</li>
-  <li>Request: The device officially asks the server to reserve that specific address.</li>
   <li>ACK (Acknowledgment): The server confirms the assignment and provides the final network settings</li>   
      </ul>
   </ol>
@@ -1336,7 +1335,7 @@
 
  <p>
   <ol type="1">
-     <li>Use the ping command in the Windows Powershell and ping a website such as googl.com.</li>
+     <li>Use the ping command in the Windows Powershell and ping a website such as google.com.</li>
      <li>Observe the ICMP traffic in Wireshark after the ping happens.</li>
   </ol>
 </p>
