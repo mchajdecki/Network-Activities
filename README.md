@@ -26,7 +26,7 @@
 
 <h2>A Video Break Down Of Everythig Discussed In This Tutorial</h2>
 
-- ### [YouTube: Performing Activities and Network Traffic Analysis With Wireshark ](link)
+- ### [YouTube: Performing Activities and Network Traffic Analysis With Wireshark ](https://www.youtube.com/watch?v=VRJdTz0kwrU)
 
 <h2>Environments and Technologies Used</h2>
 
