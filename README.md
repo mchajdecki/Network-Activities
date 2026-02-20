@@ -58,7 +58,7 @@
 - Linux Virtual Machine
 - Virtual Networks and Subnets
 
-<h2>To install the required Prerequisites for the network activites follow this guide - https://github.com/mchajdecki/Network-Activities---Prerequisites</h2>
+<h3>To install the required Prerequisites scroll down or follow the guide in this section  (https://github.com/mchajdecki/Network-Activities---Prerequisites)</h3>
 
 <h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
