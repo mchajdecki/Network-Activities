@@ -1165,11 +1165,17 @@
      </ul>
   </ol>
 </p>
+<br>
+<hr>
+
+
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/1d03a39e3a3a69dd328d7147fc8973c9f9757571/images/Slide_78.jpg" alt="DHCP - Slide_78"/>
+  <ol type="1">
+     <li>The reason for us doing this because typing <i>ipconfig/release<i/> directly into the command prompt over an RDP connection will instantly drop the VM's network link. The moment that happens, your remote desktpo session terminates, locking you out of the machine before you can ever type <i>ipconfig/renew</i>. By bundling both commands into a single <i>.bat</i> file, we force the VM to execute them back-to-back locally. The network connection drops and recovers automatically in the background, keeping your lab sessions alive and preventing you from getting permanetly disconnected.</li>
+  </ol>
 </p>
-<br>
-<br>
+
+<hr>
 <br>
 <br>
 <hr>
