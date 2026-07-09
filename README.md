@@ -1169,9 +1169,8 @@
 <hr>
 
 
-<p></p>
-     <h2>The reason for us doing this because typing <i>ipconfig/release<i/> directly into the command prompt over an RDP connection will instantly drop the VM's network link. The moment that happens, your remote desktpo session terminates, locking you out of the machine before you can ever type <i>ipconfig/renew</i>. By bundling both commands into a single <i>.bat</i> file, we force the VM to execute them back-to-back locally. The network connection drops and recovers automatically in the background, keeping your lab sessions alive and preventing you from getting permanetly disconnected.</h2>
-  </ol>
+<p>
+     <h1>*The reason for us doing this because typing <em>ipconfig/release</em> directly into the command prompt over an RDP connection will instantly drop the VM's network link. The moment that happens, your remote desktpo session terminates, locking you out of the machine before you can ever type <em>ipconfig/renew</em>. By bundling both commands into a single <em>.bat</em> file, we force the VM to execute them back-to-back locally. The network connection drops and recovers automatically in the background, keeping your lab sessions alive and preventing you from getting permanetly disconnected.</h1>
 </p>
 
 <hr>
